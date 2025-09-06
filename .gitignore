@@ -1,0 +1,25 @@
+# Папки
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+node_modules/
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+venv*
+env*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Папки кэширования
+.cache/
+__pycache__/
+*.pyc
